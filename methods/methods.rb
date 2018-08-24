@@ -50,4 +50,4 @@ scream("Yippeee")
 #  from (irb):1:in `calculate_product'
 #  from (irb):4
 #  from /Users/username/.rvm/rubies/ruby-2.0.0-p353/bin/irb:12:in `<main>'
-# This error tells you that you inputted too little arguments, 1 when there should be 2.
+# This error tells you that you inputted too few arguments, 1 when there should be 2.
