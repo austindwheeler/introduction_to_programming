@@ -62,3 +62,8 @@ if hash_1.has_value?(value)
 else
   "Negative, Ghostrider."
 end
+
+# Exercise 6
+words =  ['demo', 'none', 'tied', 'evil', 'dome', 'mode', 'live',
+          'fowl', 'veil', 'wolf', 'diet', 'vile', 'edit', 'tide',
+          'flow', 'neon']
